@@ -1,0 +1,9 @@
+﻿  pagerank.c
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(33,25): warning C4477: 'fprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'FILE *'
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(118,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(118,20): message : consider using '%zd' in the format string
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(23,10): warning C4101: 'line_buffer': unreferenced local variable
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(153,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(163,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\pagerank.c(166,36): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  CPSC_lab5.vcxproj -> C:\Users\Andre\OneDrive\EE\Y2 S1\CPSC 259\LABS\Lab 5\CPSC_lab5\x64\Debug\CPSC_lab5.exe
